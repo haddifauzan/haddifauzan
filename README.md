@@ -26,4 +26,4 @@ Hi! I'm Haddi Fauzan — a passionate developer with a strong interest in buildi
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/haddifauzan/haddifauzan/blob/output/github-snake-dark.svg)
