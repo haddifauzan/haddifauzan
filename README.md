@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Haddi Fauzan — a passionate developer with a strong interest in building useful and user-friendly software.<br>I enjoy working with modern technologies and always eager to learn something new.<br>💡 Always excited to learn new tools, frameworks, and best practices<br>📚 Currently focusing on building strong foundations in design and coding<br>🛠️ Practicing with real projects and personal experiments to sharpen my skillss
+Hi! I'm Haddi Fauzan — a passionate developer with a strong interest in building useful and user-friendly software.<br>I enjoy working with modern technologies and always eager to learn something new.<br>💡 Always excited to learn new tools, frameworks, and best practices<br>📚 Currently focusing on building strong foundations in design and coding<br>🛠️ Practicing with real projects and personal experiments to sharpen my skills
 
 
 ## 🌐 Socials:
